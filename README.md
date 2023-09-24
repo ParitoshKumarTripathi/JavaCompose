@@ -10,3 +10,4 @@ Was curious if could make JetpackCompose like lib in Java, without using Materia
 - Row, Column, Button, Text (For Material 3)
 
 ### The code in the repo is of a very basic implementation.
+But while typing this ReadMe, i realized it would be better to use Material 3 componenets.

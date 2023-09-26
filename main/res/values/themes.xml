@@ -1,8 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Base.Theme.JavaCompose" parent="Theme.AppCompat.DayNight.NoActionBar">
+    <!-- Base application theme. -->
+    <style name="Theme.M3JavaCompose" parent="Theme.Material3.DynamicColors.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
         <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
         <item name="android:windowLightNavigationBar">?attr/isLightTheme</item>
     </style>
-
-    <style name="Theme.JavaCompose" parent="Base.Theme.JavaCompose" />
 </resources>

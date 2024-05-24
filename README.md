@@ -2,7 +2,7 @@
 Was curious if could make JetpackCompose like lib in Java, without using Material 3 components.
 
 - I would be happy 😃 if someone would like to contribute to it.
-- Currently there is not much code, just basic impl.
+- Currently there is not much code, just basic implementation.
 - But still works 👍
 
 ## File Structure
